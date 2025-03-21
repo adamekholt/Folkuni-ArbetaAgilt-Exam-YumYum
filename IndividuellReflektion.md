@@ -93,8 +93,9 @@ Båda dessa saker var vi tvungna att välja bort för att hinna få ett så fär
 
 #### Reflektera kring hur den kod du bidragit med skulle kunna förbättras, ge konkreta exempel.
 
-(insert answer here...)
+Jag tycker det är lite svårt att sätta bra klassnamn, och jag ser att några av dem kanske skulle kunna vara mer beskrivande. Till exempel skulle .material-icons kunna vara något mer specifikt som .carousel-arrow för att tydliggöra vad den används till. Och .cart_count skulle kunna ändras till något som .cart-item-count för att göra det tydligare att det refererar till antalet varor i kundvagnen. Det är säkert flera saker jag skulle kunna ha gjort på ett bättre och enklare sätt, men allt som allt tycker jag att jag har tagit mig god tid att hitta de bästa lösningarna möjliga och jag är nöjd med den kod jag har skrivit.
 
 #### Om ni hade en vecka till på er, vad skulle du ändrat? Fokusera på arbetsprocessen, samarbetet eller verktygen ni använde. Hur skulle det ha påverkat resultatet?
 
-(insert answer here...)
+Om vi hade en vecka till på oss, skulle jag fokuserat mer på att ta regelbundna pauser för att ge hjärnan mer återhämtning. Jag har märkt att det gör en stor skillnad för produktiviteten min och arbetsflödet. Genom att ta fler pauser skulle jag kunna hålla en högre kvalitet på arbetet och undvika att fastna.
+Jag skulle också lagt mer fokus på att kommentera koden under hela processen, vilket skulle ha gjort det lättare att återuppta arbetet efter pauser och även för de andra att förstå mitt tänkande och lösningar. Det skulle underlättat när vi ska visa och diskutera koden under dagliga möten.
