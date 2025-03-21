@@ -8,83 +8,88 @@ Svara på var och en av frågorna nedan individuellt (minst 100 tecken per fråg
 
 #### Vad var ditt mål med projektet initialt?
 
-Mitt mål i prosjektet var å tørre å ha en mer tydelig stemme i gruppen, ha mer tillitt til egne ferdigheter og snakke mer kode. Jeg ønsket også å være aktiv underveis i prosjektet på flere plattformer enn bare koden. For eksempel i forbindelse med skriving av protokoller og at jeg var tilstede og delaktig i møtene våre.  
+Mitt mål i projektet var att våga ha en mer tydlig röst i gruppen, ha mer tillit till egna färdigheter och prata mer kod. Jag ville också vara aktiv under projektets gång på fler plattformar än bara koden. Till exempel i samband med skrivandet av protokoll och att jag var närvarande och delaktig i våra möten. 
 
 #### Vad var din känsla inför att arbeta i ett team när du gick in i uppgiften?
 
-Første følelsen var at jeg vet at jeg kommer til å bli nødt til å tre ut av komfortsonen min. Jeg valgte å sette meg opp på en gruppe hvor jeg har jobbet med de fleste i tidligere prosjekt, de er veldig flinke og jeg lærer mye av å samarbeide med de. Jeg visste også at i denne gruppen ville den psykologiske sikkerheten ivaretas, i retrospekt hadde jeg helt rett i det. Har vært en veldig fin gruppe og en veldig godt samarbeid, har vært komfortabel med å være mer aktiv og delaktig i gruppedynamikken gjennom hele prosjektet.
+Den första känslan var att jag visste att jag skulle behöva kliva utanför min komfortzon. Jag valde att sätta mig i en grupp där jag har arbetat med de flesta tidigare i projekt, de är väldigt duktiga och jag lär mig mycket av att samarbeta med dem. Jag visste också att den psykologiska säkerheten skulle bevaras i denna grupp, och i retrospekt hade jag helt rätt i det. Det har varit en väldigt fin grupp och ett väldigt bra samarbete, och jag har känt mig bekväm med att vara mer aktiv och delaktig i gruppdynamiken genom hela projektet.
 
 ### Planering och genomförande
 
 #### Hur tycker du att planeringen inför projektet fungerade?
 
-Vi tok oss god tid til å planlegge grundig, og selv om jeg på et tidspunktet tenkte at vi brukte for lang tid på planleggingen så ser jeg nå hvor viktig det var. Det at vi satte av nok tid til å strukturere og fordele arbeidet skapte en stabil base, noe som gjorde at prosjektet gikk veldig smidig. Vi satt samlet over videochat å kom frem til et design slik at vi alle visste i hvilken retning vi skulle når vi satt igang med å kode de ulike sidene. Det å dele opp oppgavene i mindre deler i sprint backloggen gjorde dem mer oversiktlige og håndterbare. Totalt sett var planleggingen en viktig faktor for at prosjektet skulle flyte godt og det var verdt hvert minutt vi brukte på det. 
+Vi tog oss god tid att planera noggrant, och även om jag vid ett tillfälle tänkte att vi la för mycket tid på planeringen, ser jag nu hur viktigt det var. Det faktum att vi avsatte tillräckligt med tid för att strukturera och fördela arbetet skapade en stabil grund, vilket gjorde att projektet flöt på väldigt smidigt. Vi satt tillsammans över videochatt och kom fram till en design så att vi alla visste åt vilket håll vi skulle när vi började koda de olika sidorna. Att dela upp uppgifterna i mindre delar i sprint backloggen gjorde dem mer överskådliga och hanterbara. Sammantaget var planeringen en viktig faktor för att projektet skulle flyta bra, och det var värt varje minut vi lade på det.
 
 #### Vad har du bidragit med i planeringen, samt utvecklandet av applikationen.
 
-I planleggings prossessen bidro jeg med å være aktiv og delaktig i møtene våre. Der diskuterte vi hvilke oppgaver som skulle prioriteres også brøt vi ned userstoriene slik at vi hadde en oversikt over hva som skulle være på plass for å kunne si seg ferdig med de forskjellige oppgavene. Deretter satt vi igang med Figmaskissen vår hvor vi alle sammen satt i en felles figmafil og lagde egne wireframes, deretter gikk vi over alle sammen og tok med de elementene av de ulike som vi likte best. Selv om det stort sett var en av oss som skrev, så satt vi andre å ble enige om hva som burde stå. Og når man satt å lagde et design i figma så tenkte vi høyt og drøftet det vi gjorde underveis med de andre for at resultatet skulle bli så bra som mulig.  
+I planeringsprocessen bidrog jag genom att vara aktiv och delaktig i våra möten. Där diskuterade vi vilka uppgifter som skulle prioriteras och bröt ner userstories så att vi hade en översikt över vad som behövde vara på plats för att kunna säga att vi var klara med de olika uppgifterna. Därefter satte vi igång med vår Figma skiss där vi alla satt i en gemensam Figma fil och skapade våra egna wireframes. Sedan gick vi igenom dem tillsammans och tog med de element vi gillade bäst från de olika versionerna. Även om det oftast var en av oss som skrev och delade skärm, satt vi andra och enades om vad som borde stå. När vi skapade designen i Figma tänkte vi högt och diskuterade det vi gjorde under tiden med de andra för att resultatet skulle bli så bra som möjligt.
 
-Mine oppgaver i utviklingen av appen har vært å utvikle About us siden, hvor brukeren kan bli kjent med bedriften. Der implementerte jeg også en funksjonell bildekarusell, som henter antallet varer fra localstorage og viser det dynamisk i hjørnet av ikonet. Vi ønsket også å ikke ha unødvendige ikonet i navbaren og derfor har jeg også sørget for at den skjules når den er tom og vises når det er varer i den. 
+Mina uppgifter i utvecklingen av appen har varit att utveckla  About us sidan, där användaren kan lära känna företaget. Där implementerade jag även en funktionell bildkarusell som hämtar antalet varor från localstorage och visar det dynamiskt i hörnet på ikonet. Vi ville också undvika onödiga ikoner i navbaren, så jag såg till att den göms när den är tom och visas när det finns varor i den.
 
-Under scrumreview med produkteier første uken fikk vi tilbakemelding om at hun ønsket data på hvordan potensielle brukere opplever appen vår. Derfor laget jeg en prototype basert på designskissen vår og gjennomførte en anvendbarhetstest for å samle tilbakemeldinger om både designet og brukervennligheten. Når det nærmet seg Scrum review nummer 2 tok jeg på meg oppgaven av å gå over koden vi hadde skrevet for å sørge for at den var tilgjengelighetsanpassad for funksjonsforhindrande brukere av appen. Blant annet ved å testa tabflöde, kontraster, alt-tagger på bilder, skjermleser mm. 
+Under den första scrum reviewen med produkteägaren fick vi feedback om att hon ville ha data om hur potentiella användare upplever vår app. Därför skapade jag en prototyp baserad på vår designskiss och genomförde ett användbarhetstest för att samla in feedback om både designen och användarvänligheten. När Scrum review nummer 2 närmade sig tog jag på mig uppgiften att gå igenom koden vi hade skrivit för att säkerställa att den var tillgänglighetsanpassad för användare med funktionsnedsättningar. Bland annat genom att testa tabbflöde, kontraster, alt taggar på bilder, skärmläsare mm.
 
 #### Beskriv med dina egna ord, er applikation
 
-en matbestillingsapp til foodtrucken firmaet Yum yum gimmie sum. Appen har som hensikt å gjøre det enkelt for brukerne å bestille mat fra foodtrucken på en rask og praktisk måte, i tillegg til å la brukeren bli kjent med menyen og Yum yum gimmie sum som firma.
-Når man åpner appen blir man møtt av et fargeglad og lekent design. Fargene er valgt for å skape tydelige kontraster, noe som gjør appen både visuelt tiltalende og enkel å navigere i. For administratøren er også appen et verdifullt verktøy for å ha oversikt over innkommende bestillinger og tidsaspektet de har å forholde seg til. 
+en matbestillingsapp för foodtruck företaget Yum yum gimmie sum. Appen har som syfte att göra det enkelt för användare att beställa mat från foodtrucken på ett snabbt och praktiskt sätt, samt ge användaren möjlighet att lära känna både menyn och Yum yum gimmie sum som företag.
+
+När appen öppnas möts man av en färgglad och lekfull design. Färgerna är valda för att skapa tydliga kontraster, vilket gör appen både visuellt tilltalande och enkel att navigera i. För administratören är appen också ett värdefullt verktyg för att hålla koll på inkommande beställningar och tidsramarna de har att förhålla sig till.
 
 ### Teamets utmaningar och lösningar
 
 #### Vika var de största utmaningarna för dig?
 
-Fordelen med å jobbe så sammensveiset som vi har gjort er at vi hele tiden er tilgjengelig for å hjelpe hverandre, og det har vært gull verdt. Vi har for det meste sittet i et grupperom på discord. En utfordring jeg opplevde ble at jeg falt ut av arbeidsflowen min ved enkelte anledninger om noen av de andre snakket om noe de jobbet med sammen. 
+Fördelen med att jobba så sammanhängande som vi har gjort är att vi hela tiden har varit tillgängliga för att hjälpa varandra, och det har varit guld värt. Vi har mestadels suttit i ett grupperum på discord. En utmaning jag upplevde var att jag tappade arbetsflödet vid vissa tillfällen när någon av de andra pratade om något de jobbade med tillsammans.
 
-Jeg syntes også det er utfordrende å identifisere det når jeg sitter fast og trenger hjelp for å komme videre. 
+Jag tycker också att det är utmanande att identifiera när jag sitter fast och behöver hjälp för att komma vidare.
 
 #### Hur löste eller hanterade du dessa utmaningar?
 
-Jeg løste det ved å kommunisere til de andre at jeg var tilgjengelig om det skulle være noe, men at jeg skrudde av headsettet mitt slik at jeg ikke trengte å bli forstyrret av samtaler som ikke angikk meg og det jeg gjorde i det øyeblikket. Vel å merke, dette var når vi satt å jobbet individuelt. 
+Jag löste det genom att kommunicera till de andra att jag var tillgänglig om det behövdes, men att jag stängde av mitt headset så att jag inte behövde bli störd av samtal som inte rörde mig eller det jag gjorde för tillfället. Det var när vi jobbade individuellt.
 
-Det med at jeg har vanskelig for å spørre om hjelp løste jeg ved å snakke med gruppen om at jeg har den utfordringen. Ved å adressere det gjorde at jeg hadde lettere for å ta tak i det gjennom å spørre de om spørsmål og hjelp når jeg trengte det. 
+När det gäller att jag har svårt att be om hjälp löste jag det genom att prata med gruppen om att jag hade den utmaningen. Genom att adressera det blev det lättare för mig att ta tag i det och fråga dem om hjälp eller ställa frågor när jag behövde det.
 
 #### Vilka kompromisser inom teamet har du fått göra under projektets gång?
 
-Det største kompromisset jeg inngikk iløpet av prosjeket går på designen. Jeg lagde en wireframe som var mindre leken, mer clean og minimalistisk. Jeg holder derimot med gruppen min om at designskissen min ville passet bedre til en restaurant enn til en foodtruck, noe jeg holder helt med dem om. Er veldig fornøyd med hvordan resultatet vårt ble. 
+Det största kompromisset jag gjorde under projektet gällde designen. Jag skapade en wireframe som var mindre lekfull, mer clean och minimalistisk. Jag håller dock med min grupp om att min designskiss skulle ha passat bättre för en restaurang än för en foodtruck, och jag är helt med dem i det. Jag är väldigt nöjd med hur vårt resultat blev.
 
 ### Individuell reflektion och utvärdering
 
 #### Vad lärde du dig under projektets gång?
 
-Det jeg lærte meg under projektets gång är hur viktig strukturert planlegging og faste møter er i arbeidsprosessen, spesielt når man jobber med agile metoder som Kanban og Scrum. Jeg har virkelig merket verdien av å ha en tydelig arbeidsflyt, hvor man får jobbe iterativt og hele tiden tilpasse seg fremdriften. Det har ført til at vi som team har hatt bedre samarbeid og fått mer utbytte av hverandre.
+Det jag lärde mig under projektets gång är hur viktig strukturerad planering och fasta möten är i arbetsprocessen, särskilt när man arbetar med agila metoder som Kanban och Scrum. Jag har verkligen märkt värdet av att ha ett tydligt arbetsflöde, där man kan jobba iterativt och hela tiden anpassa sig till framsteg. Det har lett till att vi som team haft bättre samarbete och fått mer ut av varandra.
 
-Jeg kommer definitivt til å fortsette å bruke agile arbeidsmetoder i mine egne prosjekter i fremtiden, både for å visualisere arbeidsflyten og for å opprettholde en god struktur. For meg har det vært veldig nyttig for å få en bedre oversikt over hva som må gjøres, samt å få øve meg på tidsestimering og overholdelse av deadlines. En annen viktig læring var hvordan det ble lettere å anerkjenne hva man har fått fullført, i stedet for å kun fokusere på alt som gjenstår. Denne måten å jobbe på gir en større følelse av mestring og fremdrift.
+Jag kommer definitivt fortsätta att använda agila arbetsmetoder i mina egna projekt i framtiden, både för att visualisera arbetsflödet och för att upprätthålla en bra struktur. För mig har det varit väldigt användbart för att få bättre översikt över vad som måste göras, samt för att öva på tidsuppskattningar och att hålla deadlines. En annan viktig lärdom var hur det blev lättare att erkänna vad man har fått klart, istället för att bara fokusera på allt som återstår. Detta arbetssätt ger en större känsla av framsteg och mästerskap.
 
 #### Finns det någonting du skulle velat göra annorlunda om du fick chansen igen?
 
-Om jeg kunne fått sjangsen igjen ville jeg embracet planleggingsprossessen i større grad enn jeg gjorde. Jeg kjennte at jeg var fokusert på at vi måtte komme igang med utviklingen av selve appen fremfor å annerkjenne at gjennom god planlegging blir alt det andre lettere senere. Ved neste tillfelle kommer jeg til å derfor være mer takknemlig for en grundig planleggingsprossess. 
+Om jag fått chansen igen skulle jag ha omfamnat planeringsprocessen i större grad än jag gjorde. Jag kände att jag var fokuserad på att vi behövde komma igång med själva utvecklingen av appen, istället för att erkänna att genom bra planering blir allt det andra lättare senare. Vid nästa tillfälle kommer jag därför vara mer tacksam för en grundlig planeringsprocess.
 
 #### Vilka möjligheter ser du med de kunskaper du fått under arbetet med projektet?
 
-Jeg har fått verktøy som vil hjelpe meg masse i å jobbe mer strukturert i fremtidige prosjekter. Jeg tror det vil hjelpe meg til å bli mindre overveldet av større oppgaver og til å få mest mulig ut av arbeidstiden min. Jeg opplever ofte mye stress i slutten av et prosjekt fordi jeg bruker lang tid på å komme igang, men jeg tror denne måten å jobbe på vil lette på dette og gjøre at jeg kan være tryggere på å holde deadlines uten å måtte inngå kompromiss og bli veldig stresset. 
+Jag har fått verktyg som kommer att hjälpa mig mycket att arbeta mer strukturerat i framtida projekt. Jag tror att det kommer att hjälpa mig att bli mindre överväldigad av större uppgifter och få ut det mesta av min arbetstid. Jag upplever ofta mycket stress i slutet av ett projekt eftersom jag tar lång tid på mig att komma igång, men jag tror att det här sättet att arbeta på kommer att lätta på detta och göra att jag kan känna mig mer säker på att hålla deadlines utan att behöva göra kompromisser och bli väldigt stressad.
 
 ### VG-frågor (minst 200 tecken)
 
 #### Beskriv minst tre fördelar med att arbeta agilt och motivera varför de är viktiga. Använd exempel från ert projekt för att styrka dina argument.
-Kommunikasjon: Gjennom de daglige stand up møtene fikk vi raskt delt fremdriften og identifisert problemer. For eksempel, om en av oss hadde møtt på en utfordring så kikket vi på koden sammen og kom frem til alternative løsninger. Fordelen med møtene var jo også det at man hadde kanskje et problem som man ikke hadde identifisert selv som gjorde at man ikke kom videre. Gjennom å vise hverandre det vi jobbet med så var det veldig verdifullt. 
+Kommunikation:
+Genom de dagliga standup möten kunde vi snabbt dela framsteg och identifiera problem. Till exempel, om någon av oss stötte på en utmaning, tittade vi på koden tillsammans och kom fram till alternativa lösningar. Fördelen med möten var också att man kanske hade ett problem som man inte själv hade identifierat, vilket gjorde att man inte kom vidare. Genom att visa varandra det vi jobbade med var det väldigt värdefullt.
 
-Tidsbesparende: Sprintene gjorde at vi kunne dele opp prosjektet i mindre deler og fokusere på konkrete oppgaver. Det hjalp oss med å prioritere og peke ut de viktigste oppgavene vi hadde foran oss i tillegg til å tidsestimere oppgavene våre.
+Tidsbesparande:
+Sprintarna gjorde det möjligt för oss att dela upp projektet i mindre delar och fokusera på konkreta uppgifter. Det hjälpte oss att prioritera och peka ut de viktigaste uppgifterna vi hade framför oss, samt att tidsuppskatta våra uppgifter.
 
-Kontinuerlige tilbakemeldinger: Sprintreviewsene hvor vi fikk tilbakemeldinger fra produkteier hjalp oss med å justere og forbedre appen underveis for et best mulig resultat.
+Kontinuerliga feedback:
+Sprintreviews där vi fick feedback från produkteägaren hjälpte oss att justera och förbättra appen under vägens gång för att få bästa möjliga resultat.
 
 
 #### Beskriv en konkret lösning du föreslagit under projektet. Varför ansåg du att den var bäst? Jämför med minst en annan möjlig lösning och förklara varför du inte valde den.
 
-En løsning jeg kom med var å lage en dynamisk bildekarusell der bildene hentes fra Javascript i stedet for å være hardkodet i html. Jeg lagret bildene i en array i Javascriptfilen imageCaroussel.js og la til piltastene for å navigere mellom bildene. Jeg likte denne løsningen bedre fordi den bidrar til å holde html koden renere og gjennom det blir den lettere å jobbe med.
+En lösning jag kom på var att skapa en dynamisk bildkarusell där bilderna hämtas från Javascript istället för att vara hårdkodade i html. Jag sparade bilderna i en array i Javascript filen imageCaroussel.js och lade till piltangenter för att navigera mellan bilderna. Jag gillade denna lösning bättre eftersom den bidrar till att hålla html koden renare, vilket gör den lättare att arbeta med.
 
 #### Ge minst två exempel på lösningar ni valde bort. Analysera varför ni avstod från dem. Hur påverkade det projektet? Kunde något ha gjorts annorlunda?
 
-Til sprint nummer 2 hadde vi et ønske om å legge et icon i navbaren for enklere tilgjengelighet for ETA siden, dette var basert på data fra brukerundersøkelsen vi gjennomførte. Vi ville også egentlig ha egne små bokser i menyen for drikke alternativene og dip alternativene, dette var for at det skulle bryte litt i designet av siden.
-Begge disse tingene måtte vi velge bort for å rekke å ha et så ferdig produkt som mulig til Sprint reviewen. Om prosjektet skulle fortsatt videre er dette ting vi ville utbedret. 
+Till sprint nummer 2 hade vi ett önskemål om att lägga till ett ikon i navbaren för enklare åtkomst till ETA sidan, baserat på data från användarundersökningen vi genomförde. Vi ville också egentligen ha egna små boxar i menyn för dryckesalternativen och dip alternativen, för att skapa lite variation i designen av sidan.
+
+Båda dessa saker var vi tvungna att välja bort för att hinna få ett så färdigt produkt som möjligt till sprintreviewen. Om projektet skulle fortsätta vidare är det här saker vi skulle ha förbättrat.
 
 #### Reflektera kring hur den kod du bidragit med skulle kunna förbättras, ge konkreta exempel.
 
